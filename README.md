@@ -1,0 +1,2 @@
+# Web-Safe-Font-Preview-Codecademy
+This is the project of Codecademy "Learn jQuery" course. It was really interesting to do it that i'have decided to upload this project to my github pages. This is actually a simple app to preview different web safe fonts, sizes, and weights. In general the keyup and change event handlers of jQuery are used to make this app (project) run. 
